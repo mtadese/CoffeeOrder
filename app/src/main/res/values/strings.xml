@@ -1,0 +1,18 @@
+
+<resources>
+
+<string name="app_name">MTADESE - Coffee Order</string>
+
+<!--header text for the list of toppings -->
+<string name="toppings">Toppings</string>
+
+<!--header text for Quantity -->
+<string name="quantity">Quantity</string>
+
+<!--Thank You text at the Order Summary Section -->
+<string name="thank_you">Thank you!</string>
+
+
+
+
+</resources>
